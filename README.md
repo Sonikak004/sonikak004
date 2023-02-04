@@ -1,4 +1,4 @@
-<h1 align="center"><img src="cooltext428907654791262.png"></h1>
+<h1 align="center">Hi, I am  Sonika Kumar</h1>
 <h3 align="center">You're going to do it anyways</h3>
 
 # 📊 GitHub Stats
