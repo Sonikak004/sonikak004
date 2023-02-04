@@ -2,7 +2,7 @@
 <h3 align="center">You're going to do it anyways</h3>
 
 <img src="![Black and White Animated Personal Name Initials Logo](https://user-images.githubusercontent.com/99942992/216766254-0a166b6d-fb50-44b8-b617-d4f44db088db.gif)
-" width="48">
+" width="600">
 
 
 # 📊 GitHub Stats
