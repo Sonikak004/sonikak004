@@ -1,9 +1,7 @@
 <h1 align="center">Hi👋, I am  Sonika Kumar</h1>
 <h3 align="center">You're going to do it anyways</h3>
 
-<video> 
-  <source src="Black and White Animated Personal Name Initials Logo.mp4" type="video/mp4"> 
-</video> 
+![BlockchainDistributedGIF (2)](Black and White Animated Personal Name Initials Logo.mp4)
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=sonikak004&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
