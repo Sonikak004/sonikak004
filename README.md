@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sonika Kumar</h1>
 <h3 align="center">A passionate Coder</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonikak004" alt="sonikak004" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/Sonikak004](https://github.com/Sonikak004)
 
 - 📫 How to reach me **sonikak004@gmail.com**
