@@ -1,8 +1,7 @@
 <h1 align="center">Hi👋, I am  Sonika Kumar</h1>
 <h3 align="center">You're going to do it anyways</h3>
 
-<img src="![Black and White Animated Personal Name Initials Logo](https://user-images.githubusercontent.com/99942992/216766254-0a166b6d-fb50-44b8-b617-d4f44db088db.gif)
-" width="600">
+                  ![Black and White Animated Personal Name Initials Logo](https://user-images.githubusercontent.com/99942992/216766288-cc41dded-307b-4c41-8196-27b83269229a.gif)
 
 
 # 📊 GitHub Stats
