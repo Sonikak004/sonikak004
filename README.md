@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I am  Sonika Kumar</h1>
 <h3 align="center">You're going to do it anyways</h3>
  
- <img src="Black and White Animated Personal Name Initials Logo.gif" style="width: 700px; height: 400px; padding-left:15px">
+ <img src="Black and White Animated Personal Name Initials Logo.gif" style="width: 700px; height: 300px; padding-left:15px">
  
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=sonikak004&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
