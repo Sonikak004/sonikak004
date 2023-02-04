@@ -1,7 +1,12 @@
 <h1 align="center">Hi👋, I am  Sonika Kumar</h1>
-<h3 align="center">You're going to do it anyways</h3>
+<h3 
 
-![BlockchainDistributedGIF (2)](Black and White Animated Personal Name Initials Logo.mp4)
+https://user-images.githubusercontent.com/99942992/216766060-7fc5ffd2-25ed-47cc-b0c1-58f4ca4b7b0d.mp4
+
+align="center">You're going to do it anyways</h3>
+
+
+
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=sonikak004&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
