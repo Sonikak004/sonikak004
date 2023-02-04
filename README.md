@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/logo.svg" width="300" height="100">
-</p>	
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
-
+<h1 align="center">Hi 👋, I'm Sonika Kumar</h1>
+<h3 align="center">You're going to do it anyways</h3>
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=sonikak004&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
