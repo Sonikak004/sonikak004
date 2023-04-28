@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sonika Kumar!</h1>
 <h3 align="center">Keeping It (the code) Simple!</h3>
-<img align="right" alt="coding" width="500px" src="coding-girl-animation-fe7t4gejurmtof8v.gif">
+<img align="right" alt="coding" width="400px" src="coding-girl-animation-fe7t4gejurmtof8v.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonikak004&label=Profile%20views&color=0e75b6&style=flat" alt="sonikak004" /> </p>
 
