@@ -1,5 +1,7 @@
-![GitHub Logo](./Black and White Animated Personal Name Initials Logo.gif)
- 
+<p align="center">
+  <img src="./Black and White Animated Personal Name Initials Logo.gif" width="350" title="hover text">
+</p>
+
   ![](https://komarev.com/ghpvc/?username=sonikak004e&color=blue&style=for-the-badge)
  
 # 📊 GitHub Stats
