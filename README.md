@@ -19,6 +19,3 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonikak004&" alt="sonikak004" /></p>
-
-### :writing_hand: Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
