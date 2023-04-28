@@ -7,6 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+
 - 📫 How to reach me **sonikak004@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
