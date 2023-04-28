@@ -1,4 +1,4 @@
-<h1 align="center">Hi,👋 I am Sonika Kumar</h1>
+![GitHub Logo](./Black and White Animated Personal Name Initials Logo.gif)
  
   ![](https://komarev.com/ghpvc/?username=sonikak004e&color=blue&style=for-the-badge)
  
