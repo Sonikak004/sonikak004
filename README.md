@@ -1,3 +1,4 @@
+![logo](20230428_180751_0000.png)
 <h1 align="center">Hi 👋, I'm Sonika Kumar!</h1>
 <h3 align="center">Keeping It (the code) Simple!</h3>
 <img align="right" alt="coding" width="300px" src="coding-girl-animation-fe7t4gejurmtof8v.gif">
