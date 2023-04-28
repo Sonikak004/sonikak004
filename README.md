@@ -1,17 +1,21 @@
-<p align="center">
-  <img src="./Black and White Animated Personal Name Initials Logo.gif" width="350" title="hover text">
+<h1 align="center">Hi 👋, I'm Sonika Kumar!</h1>
+<h3 align="center">Keeping It (the code) Simple!</h3>
+<img align="right" alt="coding" width="400px" src=![image](https://user-images.githubusercontent.com/99942992/235140796-da48fa0a-4ad1-4dd8-bcc1-0318e14e51cb.png)
+">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonikak004&label=Profile%20views&color=0e75b6&style=flat" alt="sonikak004" /> </p>
+
+- 📫 How to reach me **sonikak004@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-  ![](https://komarev.com/ghpvc/?username=sonikak004e&color=blue&style=for-the-badge)
- 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=sonikak004&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sonikak004&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sonikak004&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-# 💻 Tech Stack
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonikak004&show_icons=true&locale=en&layout=compact" alt="sonikak004" /></p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonikak004&show_icons=true&locale=en" alt="sonikak004" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonikak004&" alt="sonikak004" /></p>
