@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sonika Kumar!</h1>
 <h3 align="center">Keeping It (the code) Simple!</h3>
-<img align="right" alt="coding" width="400px" src=![image](https://user-images.githubusercontent.com/99942992/235140796-da48fa0a-4ad1-4dd8-bcc1-0318e14e51cb.png)
-">
+<img align="right" alt="coding" width="300px" src="e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonikak004&label=Profile%20views&color=0e75b6&style=flat" alt="sonikak004" /> </p>
 
