@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonikak004&label=Profile%20views&color=0e75b6&style=flat" alt="sonikak004" /> </p>
 
-- 🚀 Full-Stack web development apprentice at Microverse.
+- 🚀 Full-Stack web development student at Microverse.
 
 - 💬 HTML, CSS, Bootstrap, and JavaScript enthusiast. Ready for tech talk!
 
